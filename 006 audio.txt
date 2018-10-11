@@ -1,0 +1,16 @@
+audio -- Audio is use to add a audio track on html page.
+
+audio tag have some attributes. Lets disscass about thouse tags.
+
+<audio autoplay><!-- The linked track autometically played -->
+
+<audio controls><!-- Add controls on track player -->
+
+<audio loop><!-- The audio track will looped -->
+
+<audio muted><!-- The track will be muted-->
+
+<audio preload="auto"><!-- This attribute define how track preload -->
+Reference -- auto, metadata, none
+
+<audio src="/audio/music.mp3"><!-- The link of the track which will be played -->

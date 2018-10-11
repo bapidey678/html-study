@@ -1,0 +1,3 @@
+bdi -- It is a Bi Diretion isolation, that menans it convart rtl text with ltr text.
+
+I could not explain it because I don't know any RTL language.

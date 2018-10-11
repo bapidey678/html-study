@@ -1,0 +1,8 @@
+base -- Define a defult url and target for all links of that page
+
+base tag have some attributes. Let's check some attributes on html.
+
+<base href="https://localhost:8080"><!-- Use to define a defult url of that page -->
+
+<base target="_blank"><!-- Use to define a defult target frame of linked document open for -->
+Reference -- _blank, _parent, _self, _top, framename

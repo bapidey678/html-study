@@ -1,0 +1,24 @@
+a -- a is a link tag in html.
+
+a have some attributes. Lets check some attributes in html.
+
+
+<a charset="UTF-8"><!-- It allow us to define which charset we use in html -->
+
+<a download="image/nature.jpg"><!-- This type link allow us to download a content via html -->
+
+<a href="https://www.google.com"><!-- This will refer up to anouther link -->
+
+<a hreflang="en-US"><!-- This will said language of a refered link -->
+
+<a media="print and resoltion in 300dpi"><!-- This is use to describe which media/device is optimize for the document -->
+
+<a ping="https://www.google.com"><!-- If link is followed some post type body ping sent to the browser -->
+
+<a rel="license"><!-- This is use to define reletionship between this and linked document -->
+Refrence:--  alternative, author, bookmark, external, help, license, next, nofollow, noreferrer, noopener, prev, search, tag
+
+<a target="_blank"><!-- This is use to define where is linked document opened -->
+Reference:--  _blank, _parent, _self, _top, framename to targeted
+
+<a type="text/html"><!-- This is used for define the document type linked with -->

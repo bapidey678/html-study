@@ -1,0 +1,3 @@
+blockquote -- It is use to blockquote a text.
+
+<blockquote>Some Text</blockquote><!--This is use to Blockquote a text -->

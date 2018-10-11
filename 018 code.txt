@@ -1,0 +1,3 @@
+code -- Use to write a computer code.
+
+<code>This is the code</code>

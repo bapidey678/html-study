@@ -1,0 +1,27 @@
+button -- This tag is use to add a button on a html page.
+
+<button autofocus><!-- Autometically focused on a button -->
+
+<button disabled><!-- The button is disabled -->
+
+<button form="KYC"><!-- Specify one or more from the button belongs to -->
+
+<button formaction="/form-submit.php"><!-- Define where the form is subbmitted -->
+
+<button formtype="text/plain"<!-- This define how is text encoded before submitted on server -->
+Reference -- application/x-www-form-urlencoded, multipart/form-data, text/plain
+
+<button formmethod="get"><!-- This is the method how form is submitted -->
+Reference -- get, post
+
+<button formnovalidate><!-- This attributes dose not validate input type, it is just accept the input -->
+
+<button formtarget="_blank"><!-- This will show response of the form after submit -->
+Refrence -- _blank, _self, _parent, _top, framename
+
+<button name="OK"><!-- Specify the name of name -->
+
+<button type="button"><!-- The button type -->
+Reference -- button, submit, reset
+
+<button value="10"><!-- This is specify intial value of button -->

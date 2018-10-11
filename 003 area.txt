@@ -1,0 +1,27 @@
+area  --  Define a area into a image map
+
+area have some attribute - Lets check what are thouse
+
+<area alt="sun"><!-- The name of the map as a alternative text -->
+
+<area coords="10,30,10,40"><!-- Use to specify the coordinates of the location -->
+
+<area download="/image/sun.jpg"><!-- The target will download when user click on the link -->
+
+<area href="https://www.github.com"><!-- Use to specify a link to link -->
+
+<area hreflang="en-US"><!-- Define the language of the link is linked -->
+
+<area media="print in 300dpi"><!-- Define that linked document optimize for -->
+
+<area rel="author"><!-- Define the reletionship of linked document -->
+Reference -- alternate, author, bookmark, help, license, next, nofollow, noreferrer, prefetch, prev, search, tag
+
+<area shape="default"><!-- Used to define a shape of a map -->
+Reference -- default, rect, circle, poly
+
+<area target="_blank"><!-- Define a traget where linked document will open -->
+Reference -- _blank, _parent, _self, _top, framename
+
+<area type="image/jpg"><!-- Use to describe media type -->
+

@@ -1,0 +1,7 @@
+address - Use to define address or contact information.
+
+<address>
+	<a href="mailto:webmuster@gmail.com">Drop A Mail</a>
+</address>
+
+All the contact information is assine into address tag.

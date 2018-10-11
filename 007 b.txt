@@ -1,0 +1,3 @@
+b -- b is use to bold text.
+
+<b>This is a bold text</b><!-- It is use to bold text -->

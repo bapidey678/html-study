@@ -1,0 +1,4 @@
+bdo -- It is a Bi direction tag in html. It is use info of convert technology.
+
+<bdo dir="ltr"><!-- The text is use left to right direction -->
+Reference -- ltr,rtl

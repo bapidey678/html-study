@@ -1,0 +1,4 @@
+caption -- It define table caption.
+
+<caption align="left"><!-- Use to specify the align of the caption -->
+Refrence -- left, right, top, bottom

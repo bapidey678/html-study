@@ -1,0 +1,5 @@
+canvas -- It is use to draw graphics on fly via javascript.
+
+<canvas hight="10"><!-- Specify the hight of canvas -->
+
+<canvas width="10"><!-- Specify the width of the canvas -->

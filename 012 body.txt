@@ -1,0 +1,3 @@
+body -- Body is use to add body in html page.
+
+<body><!-- It is use to add some code on body of a html page.
