@@ -1,0 +1,3 @@
+datalist -- It defines list of predefined option in input.
+
+<datalist id="datalist"></datalist><!-- The id of datalist -->

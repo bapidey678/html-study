@@ -1,0 +1,3 @@
+colgroup -- It specify one or more group of column in a table for formatting.
+
+<colgroup span="20"><!-- Specify number of colgroup -->

@@ -1,0 +1,3 @@
+data -- This is a transltion for metion readable data.
+
+<data value="100">Police Station</data><!-- Value is use to describe computer readable value -->

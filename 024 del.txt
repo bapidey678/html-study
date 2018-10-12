@@ -1,0 +1,7 @@
+del -- Describe a text thats deleted.
+
+It has some attributes, Lets discass.
+
+<del cite="https://www.geektipshub.ml">It is deleted</del><!-- Describe a url releted to deleted text -->
+
+<del datetime="2018-10-12T09:49">Text Deleted</del><!-- Describe the time when text is deleted -->
