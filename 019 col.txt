@@ -1,3 +1,5 @@
-col -- Specify the column propaties of each column of colgroup.
+col -- Specify the column propaties of each column whitin colgroup.
 
-<col 
+col have some attributes, Lets discass about this.
+
+<col span="10"><!-- Specify number of colum col should span.

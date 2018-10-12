@@ -1,0 +1,3 @@
+dt -- Use to define a term or name in description list.
+
+<dt>Description List</dt><!-- This is how wrote dt in html -->

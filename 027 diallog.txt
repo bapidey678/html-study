@@ -1,0 +1,3 @@
+diallog -- a diallog box a window.
+
+<diallog open>This is a diallog box</diallog><!-- A diallog box is create in html -->

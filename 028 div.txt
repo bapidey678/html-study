@@ -1,0 +1,3 @@
+div -- It is use to create a divison or a section in html document.
+
+<div></div><!-- A section made by this code -->

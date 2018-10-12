@@ -1,0 +1,3 @@
+dfn -- Defineing instance of a term in html.
+
+<dfn>Html</dfn><!-- A example how to define in dfn -->

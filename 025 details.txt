@@ -1,0 +1,5 @@
+details -- It is a specify additional information user can view or hide.
+
+It has some attributes, Lets discass about it.
+
+<details open>Some Details</details><!-- It remain details opend by defualt -->
