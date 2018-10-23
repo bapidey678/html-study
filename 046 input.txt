@@ -48,4 +48,22 @@ Reference: -- 'number', 'date'
 
 <input name="fname"><!-- Use to define a name of input element -->
 
-<input pattren="[A-Za-z]{3}"><!-- Specifies a regular expression that an <input> element's value is checked against -->
+<input pattren="[A-Za-z]{3}"><!-- Specifies a regular expression that an <input> element's value is checked against. Use of regexp. -->
+
+<input placeholder="Your Name"><!-- A short hint pace in input place -->
+
+<input readonly><!-- Use to create a readinput input -->
+
+<input required><!--Use to create a must enter to submit -->
+
+<input size="100"><!-- It define the visiable charter in a width of in a text input box -->
+
+<input src="/image.png"><!-- It define image url of a input element -->
+
+<input type="button"><!-- Describe a input element type -->
+Reference: -- button, checkbox, color, date, datetime-local, email, file, hidden, image, month, number, password, radio, renge, reset,
+search, submit, tel, text, time, url, week
+
+<input value="Submit"><!-- Specify the value of input element -->
+
+<input width="100"><!-- Specify the width of an image element -->
