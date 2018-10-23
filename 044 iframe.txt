@@ -1,0 +1,16 @@
+iframe -- Use to create a inline frame.
+
+In html5 iframe have some attributes. Lets discuss about this.
+
+<iframe hight="10"><!-- Specify a hight of an inframe -->
+
+<iframe name="iframe"><!-- Define the name of I frame -->
+
+<iframe sandbox><!-- It enable extra set of restiction -->
+Reference -- allow-forms, allow-pointer-lock, allow-popups, allow-same-origin, allow-scripts, allow-top-navigation
+
+<iframe src="https://www.google.com"><!-- Use to load a url in iframe -->
+
+<iframe srcdoc="<p>This is a html paragraph in iframe</p>"><!-- Use to write some html content in this frame -->
+
+<iframe width="10"><!-- The pixel of the iframe if width -->

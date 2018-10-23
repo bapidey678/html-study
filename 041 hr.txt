@@ -1,0 +1,3 @@
+hr -- Use to draw a thematic break in html page.
+
+<hr><!-- A thematic line brack will draw -->

@@ -1,0 +1,24 @@
+img -- Use to set a image in html document.
+
+In html img tag have some attributes. Lets discuss about this.
+
+<img alt="a alternative text"><!-- This text is showed when a image is can't be loaded -->
+
+<img crossorigin="anonymous"><!-- Load image from third-party sites that allows crossorigin access used in canvas -->
+Reference -- anonymous, use-credentials
+
+<img hight="10"><!-- Use to define hight pixel of an image -->
+
+<img ismap><!-- Use when the image is a server side image map -->
+
+<img longdesc="This is a description. I can use here a long description."><!-- Use to define a long description -->
+
+<img sizes><!-- Use to define the image size -->
+
+<img src="/image.jpg"><!-- Use to specify the image url -->
+
+<img srcset><!-- Specify the url of the image to set the diffrent situation -->
+
+<img usemap="#plantimage"><!-- Use to specify a clint site image map -->
+
+<img width="20"><!-- Use to define the image width -->

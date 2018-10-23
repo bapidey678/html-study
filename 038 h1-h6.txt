@@ -1,0 +1,3 @@
+h1-h6 -- Thouse are heading tags in html.
+
+<h1>This is a heading one</h1><!-- You can also write h2, h3 as alternative -->

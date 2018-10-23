@@ -1,0 +1,3 @@
+html -- Use to start a html file.
+
+<html>Every outher element</html><!-- A html open close example -->

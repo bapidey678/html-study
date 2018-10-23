@@ -1,0 +1,3 @@
+figcaption -- It define a caption for a figer element.
+
+<figcaption>Fig 1</figcaption><!-- A genarel caption -->

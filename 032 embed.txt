@@ -1,0 +1,11 @@
+embed -- A embed tag is use to add an external application on app.
+
+The embed tag have some attributes, Let's discass about that.
+
+<embed hight="10"><!-- A hight is defined in embed tag -->
+
+<embed src="abc.swf"><!-- A flashplayer file is embed in html page -->
+
+<embed type="text/css"><!-- A file type is defined -->
+
+<embed width="100"><!-- Embed width size set -->

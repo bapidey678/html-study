@@ -1,0 +1,23 @@
+form -- Use to create a html form for user input.
+
+HTML form tag have some attributes, Lets dicass about this.
+
+<form accept-charset="UTF-8">Your Form</form><!-- Input charset setting -->
+
+<form action="/submit.html">Your Form</form><!-- Where the form is submit -->
+
+<form autocomplete="on">Your Form</form><!-- Is autocomplete on or off -->
+Reference -- on, off
+
+<form enctype="text/plain">Your Form</form><!-- How the form data is encoded (only post method) -->
+Reference -- application/x-www-form-urlencoded, multipart/form-data, text/plain
+
+<form method="get">Your Form</form><!-- The HTTP method to use when send data -->
+Reference -- get, post
+
+<form name="Bapi">Your Form</form><!-- The form name -->
+
+<form novalidate>Your Form</form><!-- The form validateing is stoped -->
+
+<form target="_blank">Your Form</form><!-- Specify where display the respond after submit a form -->
+Reference -- _blank, _self, _parent, _top

@@ -1,0 +1,51 @@
+input -- Use to create a input filde where user can input data.
+
+Input tag have some attributes. Lets disscuss about that.
+
+<input accept="audio/mp3"><!-- Specify the types of that server accepts. -->
+Reference: -- 'file_extention', audio/'*', video/'*', image/'*', 'media_type'
+
+<input alt="This is an input"><!-- Specify some alternative text for only images. -->
+
+<input autocomplete="off"><!-- Turn on autocomplete for text input. Defult is on. -->
+
+<input autofocus><!--When specify input tag autometically focused when page load -->
+
+<input checked><!-- Use to create a pre-checked input element only for checkbox and radio -->
+
+<input dir.name="fname.dir"><!-- Use to enable subbmission of text direction of in input filed. Always input-name.dir. -->
+
+<input disabled><!-- Use to disable a input -->
+
+<input form="addmission"><!-- Use to define one one or more form, the input element belongs to -->
+
+<input formaction="https://google.com"><!-- Specifies the URL of the file that will process the input control when the form is submitted (for type="submit" and type="image") -->
+
+<input formenctype="application/x-www-form-urlencoded"><!-- How data will be encoded before it submitted to server. Only for input type and submit and image. -->
+Reference: -- application/x-www-form-urlencoded, multipart/form-data, text/plain
+
+<input formmethod="get"><!-- HTTP method, how data is subbmit -->
+Refernence: -- get, post
+
+<input formnovalidate><!-- The form element should't validate when submit -->
+
+<input formtarget="_blank"><-- Define where to display responce when form is successfully submitted -->
+Reference: -- _blank, _self, _parant, _top, 'framename'
+
+<input hight="100"><!-- Specify the hight of innput element. Only for image. -->
+
+<input list="browser"><!-- Use to specify a list of data id in datalist. Refered for datalist tag. -->
+
+<input max="1979-12-01"><!-- Specify the maximam value of input.  Input a date before it. -->
+Reference: -- 'number', 'date'
+
+<input maxlenth="100"><!-- Specify the maxmimum lenth of characters is allowed -->
+
+<input min="2000-01-02"><!-- As max, Specify minimum value fo input -->
+Reference: -- 'number', 'date'
+
+<input mulltiple><!-- Use, so user able to enter more then one value -->
+
+<input name="fname"><!-- Use to define a name of input element -->
+
+<input pattren="[A-Za-z]{3}"><!-- Specifies a regular expression that an <input> element's value is checked against -->

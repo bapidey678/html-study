@@ -1,0 +1,3 @@
+head -- Use to define head elements between head tags.
+
+<head>All head element</head><!-- Head of a html page -->

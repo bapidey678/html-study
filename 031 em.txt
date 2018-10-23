@@ -1,0 +1,3 @@
+em -- Use to define a emphasized text.
+
+<em>This is a emphasized text</em><!-- That is how to define emphasized text -->

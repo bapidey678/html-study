@@ -1,0 +1,3 @@
+footer -- Specify a footer of a document.
+
+<footer>Your document footer content</footer><!-- A footer -->

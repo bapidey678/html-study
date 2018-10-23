@@ -1,0 +1,3 @@
+i -- Use to write a italic text.
+
+<i>Some text in italic</i><!-- Italic text -->

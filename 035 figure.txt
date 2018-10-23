@@ -1,0 +1,3 @@
+figure -- It specify a self contained content.
+
+<figure>Specify some picture and outher things</figure><!-- This is how figure is used -->
