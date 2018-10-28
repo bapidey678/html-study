@@ -1,0 +1,5 @@
+li -- Use to define list in html.
+
+li have some attributes, Lets discuss.
+
+<li value="100">Coffie</li><!-- It is use to define no of list -->

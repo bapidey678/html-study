@@ -1,4 +1,4 @@
-input -- Use to create a input, where user can input data.
+input -- Use to create a input filde where user can input data.
 
 Input tag have some attributes. Lets disscuss about that.
 

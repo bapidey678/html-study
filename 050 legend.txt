@@ -1,0 +1,3 @@
+legend -- Define a caption for fieldset.
+
+<fieldset><legend>Some Caption</legend></fieldset><!-- This is how to add caption -->

@@ -1,0 +1,19 @@
+link -- It is use to define a link between a document and external resorces.
+
+link tag has some attributes, Let's dicuss them.
+
+<link crossorigin="anonymous"><!-- It is specify how to handle crossorigin -->
+Reference:-- anonymous, use-credentials
+
+<link href="https://google.com/"><!-- Use to define the location of linked documet -->
+
+<link hreflang="en"><!-- Use to define of linked document language -->
+
+<link media="print"><!-- Specified what device the linked document will be displed -->
+
+<link rel="dns-prefetch"><!-- Required, Define relationship between current document and linked document -->
+Reference:-- alternate, author, dns-prefetch, help, icon, license, next, pingback, preconnect, prefetch, preload, prerender, prev, search, stylesheet
+
+<link sizes="any"><!-- Specifies the size of the linked resource, only for icon rel -->
+
+<link type="text/css"><!-- Use to define media type of linked document -->
